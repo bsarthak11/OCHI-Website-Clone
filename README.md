@@ -1,2 +1,8 @@
-# OCHI-Website-Clone
-The Ochi Website-Clone  is a meticulously crafted clone designed to showcase modern web development techniques and practices. Built using Vite for fast and efficient development, React for a dynamic and component-based architecture, and Tailwind CSS for highly customizable and responsive styling,
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
